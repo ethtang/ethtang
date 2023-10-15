@@ -1,5 +1,7 @@
 Sample Resume
 
 Name: Ethan Tang
-Education: Computer Science, BS. Northeastern University
-Gradutation: 2027
+
+Major: Computer Science, BS
+
+Expected Gradutation: 2027
