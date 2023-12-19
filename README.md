@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> "Hello World"
-- 😀 See my sample resume! 
+
+- 😀 See my sample resume!
+- I am a computer science student at Northeastern University.
